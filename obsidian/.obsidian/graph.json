@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Narnia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Bandit\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15222205
+      }
+    },
+    {
+      "query": "path:\"05 - P\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2547457
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 0.993229166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.505208333333333,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0000000000000253,
+  "close": false
+}

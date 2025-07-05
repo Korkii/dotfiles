@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Cyber Glow",
+  "enabledCssSnippets": [
+    "Linebreaks",
+    "Colored Sidebar Items"
+  ],
+  "nativeMenus": false,
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "accentColor": ""
+}

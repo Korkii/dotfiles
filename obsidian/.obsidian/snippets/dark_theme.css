@@ -1,0 +1,30 @@
+@media print {
+    @page {
+        margin: 0;
+        background-color: #202020;
+    }
+
+    html {
+        background-color: #202020 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        height: 100%;
+    }
+
+    body, .markdown-preview-view {
+        background-color: #202020 !important;
+        color: #e0e0e0 !important;
+        margin: 0 !important;
+        padding: 2em !important;
+        box-sizing: border-box;
+        min-height: 100vh; /* force body to fill viewport height */
+        -webkit-print-color-adjust: exact;
+    }
+
+    .page-break {
+        page-break-before: always;
+        break-before: always;
+        padding: 2em;
+    }
+}
+
